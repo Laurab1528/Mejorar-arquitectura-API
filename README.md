@@ -1,5 +1,5 @@
 #Mejorar la arquitectura de nuestra API
-Consignas
+
 Modificar la capa de persistencia incorporando los conceptos de Factory y DAO.
 
 Los DAOs deben presentar la misma interfaz hacia la lógica de negocio de nuestro servidor.
